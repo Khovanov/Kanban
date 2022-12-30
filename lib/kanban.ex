@@ -1,18 +1,5 @@
 defmodule Kanban do
   @moduledoc """
-  Documentation for `Kanban`.
+  Simple kanban implementation.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Kanban.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
